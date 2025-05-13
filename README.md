@@ -41,8 +41,8 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| 🛵 [**Delivery App**](https://github.com/RawdaWaez/delivery-system) | Delivery platform with real-time tracking and chatbot support. | React, Spring Boot, MongoDB |
-| 🧭 [**ConUMap**](https://github.com/RawdaWaez/ConUMap) | Campus navigation mobile app with indoor and outdoor wayfinding. | React Native, Expo, AI, Google Maps API |
+| 🛵 [**bala_2sm**]([https://github.com/RawdaWaez/delivery-system](https://github.com/Pluhs/bala_2sm-soen341projectW2024)) | Delivery platform with real-time tracking and chatbot support. | React, Spring Boot, MongoDB |
+| 🧭 [**ConUMap**](https://github.com/Aymane-Arfaoui/FindMyClass) | Campus navigation mobile app with indoor and outdoor wayfinding. | React Native, Expo, AI, Google Maps API |
 | 👚 [**Outfitly**](https://github.com/Domat99/SOEN_357_Outfitly) | Outfit recommendation app based on weather and body metrics. | React, Node.js, OpenAI API |
 
 ---
