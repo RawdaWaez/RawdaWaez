@@ -52,8 +52,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RawdaWaez&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RawdaWaez&layout=compact&langs_count=6&theme=radical&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RawdaWaez&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&v=1" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RawdaWaez&layout=compact&langs_count=6&theme=radical&hide_border=true&v=1" height="150" />
 </div>
 
 ---
